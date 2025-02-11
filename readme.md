@@ -13,7 +13,7 @@
 </a>
 </p>
 ### Languages and Tools
-<p style=" display:flex; align-items:center; gap:40px";>
+<p style=" display:flex; align-items:center; gap:40px; display:inline-block";>
 <a href="https://git-scm.com/" target="blank" >
 <img src="./images/git.png" alt="git logo" width=30px>
 </a>
@@ -25,7 +25,7 @@
 </a>
 </p>
 <p style="box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
-<table style="background-color:#FFFEFE; width: 80%; border-collapse: collapse; border-radius:10px; color:#444E59; font-size:extra-bold;">
+<table style="background-color:#FFFEFE; width: 80%; border-collapse: collapse; border-radius:10px; color:#444E59; font-size:extra-bold; ">
         <thead>
             <tr>
                 <th colspan="3">
