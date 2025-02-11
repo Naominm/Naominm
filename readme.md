@@ -12,7 +12,7 @@
 <img src="./images/linked-in-alt.svg" alt="linkedin logo" width=30px>
 </a>
 </p>
-###Languages and Tools
+<h3>Languages and Tools</h3>
 <p style=" display:flex; align-items:center; gap:40px; display:inline-block";>
 <a href="https://git-scm.com/" target="blank" >
 <img src="./images/git.png" alt="git logo" width=30px>
