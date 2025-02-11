@@ -28,7 +28,7 @@
 <table style="background-color:#FFFEFE; width: 80%; border-collapse: collapse; border-radius:10px; color:#444E59; font-size:extra-bold;">
         <thead>
             <tr>
-                <th colspan="1">
+                <th colspan="3">
                     <h3 style="color:#2F80ED; text-align: center;">
                         <b>Naomi Mbugua's Git Stats</b>
                     </h3>
