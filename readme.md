@@ -4,7 +4,7 @@
 
 -🌲currently working on **Frotend Development**
 
--😎looking to collaborate on ** webprojects**
+-😎looking to collaborate on **webprojects**
 
 ### Connect with me
 <p style="align-items:left";>
