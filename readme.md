@@ -13,7 +13,7 @@
 </a>
 </p>
 ### Languages and Tools
-<p style=" display:flex; align-items:center; gap:20px";>
+<p style=" display:flex; align-items:center; gap:40px";>
 <a href="https://git-scm.com/" target="blank" >
 <img src="./images/git.png" alt="git logo" width=30px>
 </a>
