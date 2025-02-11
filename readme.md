@@ -41,7 +41,7 @@
                 <td> 2</td>
             </tr>
             <tr>
-                <td><strong>Total Commits(2025):</strong></td>
+                <td><strong>Total Commits(2025):<td> 135</td<</strong></td>
             </tr>
             <tr>
                 <td><strong>Total PRs:<td> 4</td</strong></td>
