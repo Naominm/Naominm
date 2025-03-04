@@ -25,34 +25,9 @@
 </a>
 </p>
 <p style="box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
-<table style="background-color:#FFFEFE; width: 80%; border-collapse: collapse; border-radius:10px; color:#444E59; font-size:extra-bold; ">
-        <thead>
-            <tr>
-                <th colspan="3">
-                    <h3 style="color:#2F80ED; text-align: center;">
-                        <b>Naomi Mbugua's Git Stats</b>
-                    </h3>
-                </th>
-            </tr>
-        </thead >
-        <tbody  >
-            <tr>
-                <td><strong>Total Stars Earned:</strong></td>
-                <td> 2</td>
-            </tr>
-            <tr>
-                <td><strong>Total Commits(2025):<td> 135</td<</strong></td>
-            </tr>
-            <tr>
-                <td><strong>Total PRs:<td> 4</td</strong></td>
-            </tr>
-             <tr>
-                <td><strong>Total Issues:<td> 0</td</strong></td>
-            </tr>
-            <tr>
-                <td><strong>Contributed to (last Year):<td> 2</td</strong></td>
-            </tr>
-        </tbody>
-    </table>
+
+![Naominm's Stats](https://github-readme-stats.vercel.app/api?username=Naominm&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![Naominm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naominm&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
     </p>
 
